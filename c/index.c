@@ -79,7 +79,7 @@ double pow(double base, double exp) {
 int main(){
     char buf[100];
     while (getword(buf)) {
-       // printf("%s\n", buf);
+       printf("%s\n", buf);
        root = count(root, buf);
     }
    print_tree(root, 0);

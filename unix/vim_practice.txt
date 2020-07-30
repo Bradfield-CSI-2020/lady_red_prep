@@ -1,0 +1,473 @@
+Bird
+Ground sloth
+Harrier
+Hummingbird
+Horse
+Mockingbird
+Tiglon
+Sailfish
+American robin
+Rhinoceros
+Land snail
+Basilisk
+Blue bird
+Mongoose
+Angelfish
+Asp
+Whippet
+Firefly
+Swan
+Rabbit
+Domestic guineafowl
+Haddock
+Sheep breeds
+Egret
+American buffalo (bison)
+Camel
+Wildebeest
+Bat
+Magpie
+Toucan
+Skunk
+Boa
+Finch
+Tern
+Kangaroo mouse
+Ocelot
+Parakeet
+Halibut
+Jay
+Beaver
+Sawfish
+Frog
+Fox
+Blackbird
+Domestic canary
+Bali cattle
+Bug
+Polar bear
+Cuckoo
+Sturgeon
+Dove
+Owl
+Great white shark
+Orca
+Sugar glider
+Ostrich
+Loon
+Gazelle
+Deer
+Monkey
+Porpoise
+Toad
+Pheasant
+Silkworm
+Caterpillar
+Sperm whale
+Crayfish
+Elephant seal
+Lamprey
+Primate
+Sea snail
+Peafowl
+Beetle
+Aphid
+Turkey
+Stoat
+Wolverine
+Bear
+Right whale
+Hornet
+Black widow spider
+Cicada
+Catfish
+Cardinal
+Marmoset
+Crab
+Cape buffalo
+Herring
+Guanaco
+Snow leopard
+Barnacle
+Great blue heron
+Ass (donkey)
+Kangaroo rat
+Koala
+Termite
+Crawdad
+list
+Crane fly
+Gopher
+Anglerfish
+Puma
+Buzzard
+Junglefowl
+Parrotfish
+Reindeer
+Elephant
+Ringneck dove
+Krill
+Squid
+Albatross
+Hawk
+Common names of poisonous animals
+Black panther
+Swordtail
+Moose
+Barracuda
+Portuguese man o' war
+Marten
+Guinea pig
+Hookworm
+Lion
+Mountain goat
+Bedbug
+Armadillo
+Domestic pigeon
+Buffalo, African
+Domestic goose
+Worm
+Shrimp
+Lemur
+Whitefish
+Gerbil
+Irukandji jellyfish
+Raccoon
+Louse
+Tree frog
+Puffin
+Scale insect
+Woodpecker
+Condor
+Praying mantis
+Panther
+Vole
+Centipede
+Blue jay
+Octopus
+Chickadee
+Orangutan
+Rook
+Gecko
+Limpet
+Manatee
+Lynx
+Anteater
+Animals by number of neurons
+Porcupine
+Warbler
+Cheetah
+Baboon
+Sea slug
+Swordfish
+Arctic Fox
+Roadrunner
+Parrot
+Galliform
+Leech
+Tick
+Hedgehog
+Gibbon
+Red panda
+Beaked whale
+Prairie dog
+Seahorse
+Clam
+Chicken breeds
+Siamese fighting fish
+Fruit bat
+Tuna
+Pelican
+Arabian leopard
+Koi
+Blue whale
+Perch
+Aardvark
+Thrush
+Python
+Crane
+Spoonbill
+Humpback whale
+Cricket
+Lark
+Tapir
+Crocodile
+Eagle
+Vicuna
+Stingray
+Mollusk
+Snake
+Domestic Bactrian camel
+Jackal
+Domestic silkmoth
+Ferret
+Wren
+Domestic goat
+Slug
+Arctic Wolf
+Sparrow
+Gila monster
+Buffalo, American (bison)
+Hamster
+Macaw
+Komodo dragon
+Walrus
+Monitor lizard
+Dragon
+Starfish
+Fancy mouse
+Meadowlark
+Bobcat
+Ant
+Domestic turkey
+Goldfish
+Water Boa
+Boar
+Sole
+Animals by size
+Capybara
+Iguana
+Meerkat
+Stork
+Bonobo
+Common household pests
+Minnow
+Tiger
+Cephalopod
+Old World quail
+Grouse
+Marlin
+Gayal
+Peacock
+Whooping crane
+Domestic pig
+African elephant
+Narwhal
+Skink
+Domestic silver fox
+Mite
+Amphibian
+Constrictor
+Jellyfish
+Cobra
+Sea lion
+Pig
+Saber-toothed cat
+Ptarmigan
+Pike
+Newt
+Mule
+Roundworm
+Smelt
+Booby
+Canidae
+Whale
+Swallow
+Llama
+Caribou
+Ray (Rajiformes)
+Crow
+Platypus
+Jaguar
+Coyote
+Tarsier
+Dragonfly
+Tortoise
+Lizard
+Mammal
+Leopard
+Chimpanzee
+Dormouse
+Bobolink
+Wallaby
+Dingo
+Alligator
+Mandrill
+Chipmunk
+Bandicoot
+Lemming
+Wildfowl
+Kingfisher
+Urial
+Mastodon
+Aardwolf
+Fancy rat
+Rodent
+Giant panda
+Hyena
+Guppy
+Planarian
+Peregrine falcon
+Sockeye salmon
+Heron
+Catshark
+Cow
+Weasel
+Cat
+Water buffalo breeds
+Vampire bat
+Arrow crab
+Pigeon breeds
+Zebra finch
+Domestic hedgehog
+Dinosaur
+Guan
+Turkey breeds
+Tyrannosaurus
+Goose
+Quelea
+Ray (Batoidea)
+Domestic rabbit
+Ox
+X-ray fish
+Fly
+Swift
+Badger
+Takin
+Butterfly
+Marmot
+Earwig
+Donkey
+Partridge
+Pigeon
+Cod
+Scorpion
+Bee
+Hare
+Damselfly
+Spider monkey
+Lungfish
+Antelope
+Nightingale
+Mole
+Bald eagle
+Antlion
+Chicken
+Wildcat
+Vampire squid
+Pony
+Hoverfly
+Elk
+Fish
+Steelhead trout
+African buffalo
+Mouse
+Flea
+Shrew
+Wolf
+Hammerhead shark
+Cougar
+Domestic duck
+Rooster
+Sloth
+Sheep
+Goose breeds
+Duck
+Spider
+Locust
+laboratory rat strains
+Snail
+Raven
+Scallop
+Mosquito
+Domestic dromedary camel
+Bovid
+English pointer
+Salmon
+Clownfish
+Bass
+Viper
+Kangaroo
+Mink
+Flamingo
+Alpaca
+Quail
+Falcon
+Landfowl
+Emu
+Moth
+Rat
+Ladybug
+Dung beetle
+Felidae
+Guineafowl
+Lab rat
+Yellow perch
+Gamefowl
+Quokka
+Carp
+Flyingfish
+Tahr
+Zebra
+Fowl
+Manta ray
+Ground shark
+Canid
+Possum
+Squirrel
+Prawn
+Society finch
+Leopon
+Chameleon
+Gull
+Piranha
+Salamander
+Kite
+Rattlesnake
+Otter
+Water buffalo
+Coral
+Grizzly bear
+Star-nosed mole
+Grasshopper
+Wombat
+New World quail
+Muskox
+Trapdoor spider
+Tasmanian devil
+Turtle
+Silverfish
+Cattle
+Earthworm
+Reptile
+Mackerel
+Giraffe
+Gorilla
+Echidna
+Chinchilla
+African leopard
+Vulture
+Eel
+Panda
+Snipe
+Goat
+Fancy rat varieties
+Shark
+Pinniped
+Hippopotamus
+Hermit crab
+Kiwi
+Dog
+Opossum
+Ape
+Wasp
+Rainbow trout
+Ermine
+Dolphin
+Bison
+Trout
+Anaconda
+Xerinae
+Tiger shark
+Yak
+Cockroach
+Marsupial
+Pilot whale
+Giant squid
+Tarantula
+Impala
+Penguin
+Box jellyfish
+Lobster
+Duck breeds
+Panthera hybrid
